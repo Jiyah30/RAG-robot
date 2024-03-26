@@ -13,3 +13,5 @@ or
 ```{}
 streamlit run main.py --server.fileWatcherType none
 ```
+
+Use Python 3.9.18.
