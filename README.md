@@ -7,3 +7,9 @@ Just run
 ```{}
 streamlit run main.py
 ```
+
+or 
+
+```{}
+streamlit run main.py --server.fileWatcherType none
+```
